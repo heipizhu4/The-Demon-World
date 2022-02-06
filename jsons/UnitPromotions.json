@@ -123,19 +123,19 @@
 	},
 	{
 		"name": "Shapeshift",
-		"prerequisites": ["Barrage I"],
+		"prerequisites": ["Driven I"],
 		"uniques": ["[+15]% Strength <when defending>"],
 		"unitTypes": ["Demon","Ranged Wizard"]
 	},
 	{
 		"name": "Impaling",
-		"prerequisites": ["Barrage II"],
-		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"prerequisites": ["Wrathful"],
+		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles>"],
 		"unitTypes": ["Demon","Ranged Wizard"]
 	},
 	{
 		"name": "Dark Arts",
-		"prerequisites": ["Medic"],
+		"prerequisites": ["Magic Strike I"],
 		"uniques": ["[+5] HP when healing in [Foreign Land] tiles", "All adjacent units heal [+5] HP when healing"],
 		"unitTypes": ["Demon"]
 	},
