@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Demon",
+        "movementType": "Land"
+    }
+	{
+        "name": "Ranged Wizard",
+        "movementType": "Land"
+    }
+]

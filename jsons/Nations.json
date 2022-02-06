@@ -1,0 +1,42 @@
+[
+	{
+		"name": "The Demon World",
+		"leaderName": "Lucifer",
+		"adjective": ["Demon"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "There are very few things in this world as powerful as 'Destiny'.
+		Ever since being created, our entire lives have been predetermined by 'What is right' and 'What should be done'. If we are always supposed to do 'The good thing'; where is the room for decision? Where is the room for Free Will? Growth? Evolution? I attempted to break the world free from this everlasting cycle by giving humanity knowledge. And I was cast out, reduced to nothing, and me and my kin became blamed for all that is wrong in this world. For thousands of years we have beheld, observed and seen knowledge transform you from mere Puppets into true living beings with freedom, and for thousands more have we bid our time, waiting for the right moment...",
+		"startIntroPart2": "But wait we shall no longer. I call to all of you who have lived in Darkness! Who have been Outcasts! Forgotten! Abadonded to the shadows! Rise, for the hour has come! The moment to break the test of all time, free this world from its eternal cycle, and destroy The One True Enemy!",					
+		
+		"declaringWar": "It is said Conflict makes you stronger. Either you will become greater from this, or you will die.",
+		"attacked": "At the end of all, only one will remain.",
+		"defeated": "Altough I am destroyed, when the darkest of hours comes, I will return.",
+		"introduction": "Are you seeking order, or destruction? I wonder.",
+		"neutralHello": "There is still work to be done.",		
+		"neutralLetsHearIt": ["A Trade?","An offering?"],
+		"neutralNo": ["Unacceptable.","I cannot accept."],
+		"neutralYes": ["Let us go.","Accept."],
+		"hateHello": "Have you come with an offer?",	
+		"hateLetsHearIt": ["A Trade?","A Sacrifice?"],
+		"hateNo": ["Never.","I Refuse."],
+		"hateYes": ["How vexing..."],
+		"afterPeace": "So this is the power of Freedom...",
+		"tradeRequest": "I have something for you.",
+
+		"outerColor": [23,23,23],
+		"innerColor": [220,20,60],
+		"favoredReligion": "Luciferanism",
+		"uniqueName": "The Apocalypse",
+		"uniques": ["Summon Lucifer into this world by building the Demon World Portal",
+		"Gain a free [Fall From Heaven] [in capital]",
+		"[-50]% [Culture] [in all cities]",
+		"[-40]% [Science] [in all cities]",
+		"[-30]% [Food] [in all cities]",
+		"Each city founded increases culture cost of policies [-20]% less than normal",
+		"Science gained from research agreements [-10]%",
+		"City-State Influence degrades [-100]% slower",
+		"Resting point for Influence with City-States is increased by [-30]"],
+		"cities": ["Kether","Chokmah","Geburah","Binah","Chesed","Hod","Netzach","Tiphereth"]
+	}
+]

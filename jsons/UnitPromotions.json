@@ -1,0 +1,148 @@
+[
+	{
+		"name": "Demonic",
+		"uniques": ["[+30]% Strength <vs [Barbarian] units>", "[+30]% Strength <vs [City-State] units>"]
+	},
+	{
+		"name": "Magic Flight",
+		"uniques": ["Ignores terrain cost","[+1] Movement"]
+	},
+	{
+		"name": "Magic Barrier",
+		"uniques": ["[+30]% Strength <when defending>", "[+30]% Strength <vs [Ranged] units>"]
+	}
+	{
+		"name": "City Buster",
+		"uniques": ["[+100]% Strength <vs cities>", "[+25]% Strength <vs cities> <when defending>"]
+	},
+	{
+		"name": "Soul Drain",
+		"uniques": ["Earn [50]% of the damage done to [Military] units as [Gold]"]
+	},
+	{
+		"name": "Magic Sensing",
+		"uniques": ["[+2] Sight","Can see invisible [All] units"]
+	},
+	{
+		"name": "Siphon",
+		"uniques": ["[+20]% Strength","Earn [60]% of killed [Military] unit's [Cost] as [Science]","Earn [40]% of the damage done to [Military] units as [Science]"]
+	},
+	{
+		"name": "Channel",
+		"uniques": ["[+20]% Strength","Earn [60]% of killed [Military] unit's [Cost] as [Culture]","Earn [40]% of the damage done to [Military] units as [Culture]"]
+	},
+	{
+		"name": "Relentless",
+		"uniques": ["[+20]% Strength","[+50]% Strength <vs [Wounded] units>"]
+	},
+	{
+		"name": "Red Capote",
+		"uniques": ["May withdraw before melee ([80]%)","[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Victory",
+		"uniques": ["[+70]% Strength <vs [Military] units> <during a Golden Age>","[+50]% XP gained from combat"]
+	},
+	{
+		"name": "War",
+		"uniques": ["[+30]% Strength <vs [Military] units> <when at war>","[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Pestilence",
+		"uniques": ["[-30]% Strength for enemy [Military] units in adjacent [All] tiles","[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Death",
+		"uniques": ["Heals [100] damage if it kills a unit","[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Coming of the End",
+		"uniques": ["[2] extra interceptions may be made per turn","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "King of Demons",
+		"uniques": ["Bonus for units in 2 tile radius 15%","[+25]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Lord of Flies",
+		"uniques": ["[+25]% Strength <for [Ranged Wizard] units> <when adjacent to a [Ranged] unit>","Heal adjacent units for an additional 15 HP per turn","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Conceptual Existence",
+		"uniques": ["Earn [300]% of the damage done to [Military] units as [Science]","Earn [300]% of the damage done to [Military] units as [Culture]","[+10] HP when healing","Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Healing Spell",
+		"uniques": ["Heal this unit by [35] HP","Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Driven I",
+		"uniques": ["[+25]% Strength <vs [Sword] units>"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Driven II",
+		"uniques": ["[+25]% Strength <vs [Ranged] units>"],
+		"prerequisites": ["Driven I"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Consume Life",
+		"uniques": ["Heals [20] damage if it kills a unit"],
+		"prerequisites": ["Driven II"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Area Spell",
+		"prerequisites": ["Magic Strike I"],
+		"uniques": ["[+1] Range"],
+		"unitTypes": ["Ranged Wizard"]
+	},
+	{
+		"name": "Magic Strike I",
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"unitTypes": ["Ranged Wizard"]
+	},
+	{
+		"name": "Magic Strike II",
+		"prerequisites": ["Magic Strike I"],
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["Ranged Wizard"]
+	},
+	{
+		"name": "Fast Casting",
+		"prerequisites": ["Magic Strike II"],
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes": ["Ranged Wizard"]
+	},
+	{
+		"name": "Wrathful",
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Shapeshift",
+		"prerequisites": ["Barrage I"],
+		"uniques": ["[+15]% Strength <when defending>"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Impaling",
+		"prerequisites": ["Barrage II"],
+		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	},
+	{
+		"name": "Dark Arts",
+		"prerequisites": ["Medic"],
+		"uniques": ["[+5] HP when healing in [Foreign Land] tiles", "All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Demon"]
+	},
+	{
+		"name": "Self-Healing",
+		"prerequisites": ["Driven II"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Demon","Ranged Wizard"]
+	}
+]
