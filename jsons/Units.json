@@ -68,7 +68,7 @@
 		"cost": 50,
 		"upgradesTo": "Demon Wizard"
 		"requiredTech": "Archery",
-		"uniques": ["Requires [Basics of Demon Magic]"],
+		"uniques": ["Requires [Basics of Demonic Magic]"],
 		"attackSound": "magichit"
 	},
 	{
