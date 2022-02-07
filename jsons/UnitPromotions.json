@@ -137,7 +137,7 @@
 		"name": "Dark Arts",
 		"prerequisites": ["Magic Strike I"],
 		"uniques": ["[+5] HP when healing in [Foreign Land] tiles", "All adjacent units heal [+5] HP when healing"],
-		"unitTypes": ["Demon"]
+		"unitTypes": ["Driven II"]
 	},
 	{
 		"name": "Self-Healing",
