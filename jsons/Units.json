@@ -155,7 +155,7 @@
 		"unitType": "Ranged Wizard",
 		"uniqueTo": "The Demon World",
 		"replaces": "Gatling Gun",
-		"requiredTech": "Military Science",
+		"requiredTech": "Rifling",
 		"obsoleteTech": "Steam Power"
 		"upgradesTo": "Modern Wizard",
 		"movement": 2,
