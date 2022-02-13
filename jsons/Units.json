@@ -77,7 +77,7 @@
 		"uniqueTo": "The Demon World",
 		"replaces": "Swordsman"
 		"requiredTech": "Mathematics",
-		"obsoleteTech": "Chivalry",
+		"obsoleteTech": "Steel",
 		"upgradesTo": "Lesser Demon",
 		"movement": 2,
 		"strength": 15,
@@ -107,7 +107,7 @@
 		"unitType": "Demon",
 		"uniqueTo": "The Demon World",
 		"replaces": "Longswordsman"
-		"requiredTech": "Chivalry",
+		"requiredTech": "Steel",
 		"obsoleteTech": "Banking",
 		"upgradesTo": "Battle Demon",
 		"movement": 2,
