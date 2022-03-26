@@ -35,7 +35,7 @@
 		"[-30]% [Food] [in all cities]",
 		"Each city founded increases culture cost of policies [-20]% less than normal",
 		"Science gained from research agreements [-10]%",
-		"City-State Influence degrades [-100]% slower",
+		"[+100]% City-State Influence degradation",
 		"Resting point for Influence with City-States is increased by [-30]"],
 		"cities": ["Kether","Chokmah","Geburah","Binah","Chesed","Hod","Netzach","Tiphereth"]
 	}
