@@ -19,7 +19,7 @@
 		"uniqueTo": "The Demon World",
 		"replaces": "Worker"
 		"movement": 2,
-		"uniques": ["Requires [Demon Ritual]","Ignores terrain cost","Can build [Land] improvements on tiles"],
+		"uniques": ["Only available <if [Demonic Ritual] is constructed>","Ignores terrain cost","Can build [Land] improvements on tiles"],
 		"cost": 85
 	},
 	{
@@ -31,7 +31,7 @@
 		"strength": 3,
 		"cost": 40,
 		"uniques": ["Ignores Zone of Control",
-		"Requires [Demon Ritual]",
+		"Only available <if [Demonic Ritual] is constructed>",
 		"[-50]% Strength <when attacking>",
 		"May enter foreign tiles without open borders",
 		"Can pass through impassable tiles",
@@ -51,7 +51,7 @@
 		"cost": 45,
 		"obsoleteTech": "Mathematics",
 		"upgradesTo": "War Demon",
-		"uniques" : ["Requires [Demon Ritual]",
+		"uniques" : ["Only available <if [Demonic Ritual] is constructed>",
 		"May capture killed [Warrior] units",
 		"May capture killed [Barbarian] units",
 		"[-5] HP when healing"],
@@ -68,7 +68,7 @@
 		"cost": 50,
 		"upgradesTo": "Demon Wizard"
 		"requiredTech": "Archery",
-		"uniques": ["Requires [Basics of Demonic Magic]"],
+		"uniques": ["Only available <if [Basics of Demonic Magic] is constructed>"],
 		"attackSound": "magichit"
 	},
 	{
@@ -77,15 +77,15 @@
 		"uniqueTo": "The Demon World",
 		"replaces": "Swordsman"
 		"requiredTech": "Mathematics",
-		"obsoleteTech": "Steel",
+		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Lesser Demon",
 		"movement": 2,
 		"strength": 15,
 		"cost": 90,
-		"uniques" : ["Requires [Demon Ritual]",
-		"Requires [Contract Forging]",
+		"uniques" : ["Only available <if [Demonic Ritual] is constructed>",
+		"Only available <if [Contract Forging] is constructed>",
 		"May capture killed [Barbarian] units",
-		"[-5] HP when healing in [Foreign Land] tiles"],
+		"[-5] HP when healing <in [Foreign Land] tiles>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -98,8 +98,8 @@
 		"strength": 6,
 		"rangedStrength": 15,
 		"cost": 90,
-		"uniques": ["Requires [Demon Magic Training]",
-		"Requires [Contract Forging]"],
+		"uniques": ["Only available <if [Demon Magic Training] is constructed>",
+		"Only available <if [Contract Forging] is constructed>"],
 		"attackSound": "magichit"
 	},
 	{
@@ -107,14 +107,14 @@
 		"unitType": "Demon",
 		"uniqueTo": "The Demon World",
 		"replaces": "Longswordsman"
-		"requiredTech": "Steel",
+		"requiredTech": "Chivalry",
 		"obsoleteTech": "Banking",
 		"upgradesTo": "Battle Demon",
 		"movement": 2,
 		"strength": 24,
 		"cost": 140,
-		"uniques" : ["Requires [Demon Ritual]",
-		"Requires [Contract Forging]",
+		"uniques" : ["Only available <if [Demonic Ritual] is constructed>",
+		"Only available <if [Contract Forging] is constructed>",
 		"May capture killed [Barbarian] units",
 		"No movement cost to pillage"],
 		"attackSound": "demonhit"
@@ -129,8 +129,8 @@
 		"strength": 12,
 		"rangedStrength": 20,
 		"cost": 140,
-		"uniques": ["Requires [Demon Magic Academy]",
-		"Requires [Contract Forging]"],
+		"uniques": ["Only available <if [Demon Magic Academy] is constructed>",
+		"Only available <if [Contract Forging] is constructed>"],
 		"attackSound": "magichit"
 	},
 	{
@@ -143,11 +143,11 @@
 		"movement": 2,
 		"strength": 36,
 		"cost": 250,
-		"uniques" : ["Requires [Demon Ritual]",
-		"Requires [Contract Forging]",
+		"uniques" : ["Only available <if [Demonic Ritual] is constructed>",
+		"Only available <if [Contract Forging] is constructed>",
 		"May capture killed [Barbarian] units",
 		"No movement cost to pillage",
-		"[+5] HP when healing in [Friendly Land] tiles"],
+		"[+5] HP when healing <in [Friendly Land] tiles>"],
 		"attackSound": "demonhit"
 	},
 	{
@@ -155,15 +155,15 @@
 		"unitType": "Ranged Wizard",
 		"uniqueTo": "The Demon World",
 		"replaces": "Gatling Gun",
-		"requiredTech": "Rifling",
+		"requiredTech": "Military Science",
 		"obsoleteTech": "Steam Power"
 		"upgradesTo": "Modern Wizard",
 		"movement": 2,
 		"strength": 25,
 		"rangedStrength": 35,
 		"cost": 280,
-		"uniques": ["Requires [Advanced Demon Magics]",
-		"Requires [Scientific Demonology]"],
+		"uniques": ["Only available <if [Advanced Demon Magics] is constructed>",
+		"Only available <if [Scientific Demonology] is constructed>"],
 		"promotions": ["City Buster"],
 		"attackSound": "magichit"
 	},
@@ -178,10 +178,10 @@
 		"movement": 2,
 		"strength": 55,
 		"cost": 360,
-		"uniques" : ["Requires [Scientific Demonology]",
+		"uniques" : ["Only available <if [Scientific Demonology] is constructed>",
 		"May capture killed [Barbarian] units",
 		"No movement cost to pillage",
-		"[+5] HP when healing in [Friendly Land] tiles"],
+		"[+5] HP when healing <in [Friendly Land] tiles>"],
 		"promotions": ["Formation I","Formation II"],
 		"attackSound": "demonhit"
 	},
@@ -195,8 +195,8 @@
 		"strength": 50,
 		"rangedStrength": 70,
 		"cost": 460,
-		"uniques": ["Requires [Advanced Demon Magics]",
-		"Requires [Scientific Demonology]"],
+		"uniques": ["Only available <if [Advanced Demon Magics] is constructed>",
+		"Only available <if [Scientific Demonology] is constructed>"],
 		"promotions": ["City Buster","Soul Drain"]
 		"attackSound": "magichit"
 	},
@@ -209,7 +209,7 @@
 		"movement": 2,
 		"strength": 90,
 		"cost": 540,
-		"uniques" : ["Requires [Scientific Demonology]",
+		"uniques" : ["Only available <if [Scientific Demonology] is constructed>",
 		"May capture killed [Barbarian] units",
 		"No movement cost to pillage",
 		"[+5] HP when healing"],

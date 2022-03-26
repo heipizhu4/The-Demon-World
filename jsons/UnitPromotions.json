@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "Lord of Flies",
-		"uniques": ["[+25]% Strength <for [Ranged Wizard] units> <when adjacent to a [Ranged] unit>","Heal adjacent units for an additional 15 HP per turn","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
+		"uniques": ["[+25]% Strength <for [Ranged Wizard] units> <when adjacent to a [Ranged] unit>","All adjacent units heal [+15] HP when healing","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Conceptual Existence",
@@ -136,8 +136,8 @@
 	{
 		"name": "Dark Arts",
 		"prerequisites": ["Magic Strike I"],
-		"uniques": ["[+5] HP when healing in [Foreign Land] tiles", "All adjacent units heal [+5] HP when healing"],
-		"unitTypes": ["Driven II"]
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Demon"]
 	},
 	{
 		"name": "Self-Healing",
