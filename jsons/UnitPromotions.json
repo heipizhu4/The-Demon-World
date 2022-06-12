@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "King of Demons",
-		"uniques": ["Bonus for units in 2 tile radius 15%","[+25]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[+25]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>","[+50]% XP gained from combat","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Lord of Flies",
