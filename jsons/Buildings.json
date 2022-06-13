@@ -1,20 +1,12 @@
 [
 	{
-	"name": "Demon World Portal",
-	"uniqueTo": "The Demon World",
-	"isWonder": true,
-	"cost": 65535,
-	"uniques": ["Free [Lucifer] appears",
-	"[+500]% [Production] [in this city]",
-	"[-500]% unhappiness from population [in all cities]",
-	"[+500]% [Food] [in this city]",
-	"Destroyed when the city is captured",
-	"Requires [Ley Line]",
-	"Triggers a global alert upon build start",
-	"Triggers a global alert upon completion",
-	"Unsellable",
-	"Hidden when [Domination] Victory is disabled"],
-	"quote": "'Then I saw that there was a way to hell, even from the gates of heaven.' - John Bunyan"
+		"name": "Demon World Portal",
+		"uniqueTo": "The Demon World",
+		"isWonder": true,
+		"cost": 65535,
+		"uniques": ["Free [Lucifer] appears","[+500]% [Production] [in this city]",	"[-500]% Unhappiness from [Population] [in all cities]","[+500]% [Food] [in this city]","Destroyed when the city is captured","Only available <if [Ley Line] is constructed>","Triggers a global alert upon build start","Triggers a global alert upon completion","Unsellable"],
+		"quote": "'Then I saw that there was a way to hell, even from the gates of heaven.' - John Bunyan"
+		//Hidden when [Demination] Victory is disabled. Doesn't work properly in this edition, so is disabled.
 	},
 	{
 		"name": "Demonic Ritual",
@@ -136,7 +128,7 @@
 		"maintenance": 2,
 		"cost": 350,
 		"hurryCostModifier": 25,
-		"uniques": ["Requires [Contract Forging]",
+		"uniques": ["Only available <if [Contract Forging] is constructed>",
 		"[+10]% [Food] [in this city]",
 		"[+5]% [Culture] [in this city]",
 		"[+30]% [Science] [in this city]",
