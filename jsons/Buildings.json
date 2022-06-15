@@ -223,7 +223,7 @@
 		"requiredBuilding": "Fall From Heaven",
 		"greatPersonPoints": {"Great Scientist": 2},
 		"cost": 800,
-		"uniques": ["[+80%] [Culture] [in all cities]",
+		"uniques": ["[+80]% [Culture] [in all cities]",
 		"[+60]% [Science] [in all cities]",
 		"[+40]% [Food] [in all cities]",
 		"Population loss from nuclear attacks [-100]% [in this city]",
