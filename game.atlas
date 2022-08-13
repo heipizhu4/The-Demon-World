@@ -11,7 +11,21 @@ BuildingIcons/Advanced Demon Magics
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Advanced Demon Magics
+  rotate: false
+  xy: 4, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Altar of Baal
+  rotate: false
+  xy: 366, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Altar of Baal
   rotate: false
   xy: 366, 907
   size: 100, 100
@@ -25,7 +39,70 @@ BuildingIcons/Basics of Demonic Magic
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Basics of Demonic Magic
+  rotate: false
+  xy: 112, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon Beelzebub
+  rotate: false
+  xy: 436, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon Black Rider
+  rotate: false
+  xy: 544, 259
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon Demi-Fiend
+  rotate: false
+  xy: 652, 367
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon Pale Rider
+  rotate: false
+  xy: 868, 583
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon Red Rider
+  rotate: false
+  xy: 976, 691
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon The Trumpeter
+  rotate: false
+  xy: 436, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Summon White Rider
+  rotate: false
+  xy: 544, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Contract Forging
+  rotate: false
+  xy: 112, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Contract Forging
   rotate: false
   xy: 112, 436
   size: 100, 100
@@ -39,7 +116,21 @@ BuildingIcons/Demon Magic Academy
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Demon Magic Academy
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Demon Magic Training
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Demon Magic Training
   rotate: false
   xy: 112, 112
   size: 100, 100
@@ -53,7 +144,21 @@ BuildingIcons/Demon World Portal
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Demon World Portal
+  rotate: false
+  xy: 1230, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Demonic Ritual
+  rotate: false
+  xy: 1338, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Demonic Ritual
   rotate: false
   xy: 1338, 907
   size: 100, 100
@@ -67,7 +172,21 @@ BuildingIcons/Fall From Heaven
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Fall From Heaven
+  rotate: false
+  xy: 1554, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Lakes of Fire
+  rotate: false
+  xy: 1122, 799
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Lakes of Fire
   rotate: false
   xy: 1122, 799
   size: 100, 100
@@ -81,7 +200,21 @@ BuildingIcons/Ley Line
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Ley Line
+  rotate: false
+  xy: 1446, 799
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Lucifer's Castle
+  rotate: false
+  xy: 1770, 799
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BuildingIcons/Lucifer's Castle
   rotate: false
   xy: 1770, 799
   size: 100, 100
@@ -95,6 +228,13 @@ BuildingIcons/Scientific Demonology
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/BuildingIcons/Scientific Demonology
+  rotate: false
+  xy: 760, 691
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Statue of Samael
   rotate: false
   xy: 328, 43
@@ -102,23 +242,9 @@ BuildingIcons/Statue of Samael
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Summon Beelzebub
+BuildingIcons/BuildingIcons/Statue of Samael
   rotate: false
-  xy: 436, 151
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Summon Black Rider
-  rotate: false
-  xy: 544, 259
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Summon Demi-Fiend
-  rotate: false
-  xy: 652, 367
+  xy: 328, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -126,34 +252,6 @@ BuildingIcons/Summon Demi-Fiend
 BuildingIcons/Summon Matador
   rotate: false
   xy: 760, 475
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Summon Pale Rider
-  rotate: false
-  xy: 868, 583
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Summon Red Rider
-  rotate: false
-  xy: 976, 691
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Summon The Trumpeter
-  rotate: false
-  xy: 436, 43
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Summon White Rider
-  rotate: false
-  xy: 544, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -186,7 +284,21 @@ TileSets/FantasyHex/Units/Battle Demon
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Battle Demon
+  rotate: false
+  xy: 474, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Beelzebub
+  rotate: false
+  xy: 112, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Beelzebub
   rotate: false
   xy: 112, 652
   size: 100, 100
@@ -200,7 +312,21 @@ TileSets/FantasyHex/Units/Demi-Fiend
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Demi-Fiend
+  rotate: false
+  xy: 4, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Demon
+  rotate: false
+  xy: 220, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Demon
   rotate: false
   xy: 220, 436
   size: 100, 100
@@ -214,7 +340,21 @@ TileSets/FantasyHex/Units/Demon Caster
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Demon Caster
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Demon Hexer
+  rotate: false
+  xy: 220, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Demon Hexer
   rotate: false
   xy: 220, 328
   size: 100, 100
@@ -228,7 +368,21 @@ TileSets/FantasyHex/Units/Demon Warlock
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Demon Warlock
+  rotate: false
+  xy: 220, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Demon Wizard
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Demon Wizard
   rotate: false
   xy: 112, 4
   size: 100, 100
@@ -242,7 +396,21 @@ TileSets/FantasyHex/Units/Fiend Matador
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Fiend Matador
+  rotate: false
+  xy: 1878, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/High Demon
+  rotate: false
+  xy: 690, 799
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/High Demon
   rotate: false
   xy: 690, 799
   size: 100, 100
@@ -256,7 +424,21 @@ TileSets/FantasyHex/Units/Lesser Demon
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Lesser Demon
+  rotate: false
+  xy: 1230, 799
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Lucifer
+  rotate: false
+  xy: 4, 868
+  size: 354, 139
+  orig: 354, 139
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lucifer
   rotate: false
   xy: 4, 868
   size: 354, 139
@@ -270,7 +452,21 @@ TileSets/FantasyHex/Units/Modern Wizard
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Modern Wizard
+  rotate: false
+  xy: 436, 583
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Possessed Warrior
+  rotate: false
+  xy: 436, 475
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Possessed Warrior
   rotate: false
   xy: 436, 475
   size: 100, 100
@@ -284,7 +480,21 @@ TileSets/FantasyHex/Units/Possessed Worker
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Possessed Worker
+  rotate: false
+  xy: 652, 691
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Spectre
+  rotate: false
+  xy: 760, 583
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spectre
   rotate: false
   xy: 760, 583
   size: 100, 100
@@ -298,7 +508,21 @@ TileSets/FantasyHex/Units/Vampire
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Vampire
+  rotate: false
+  xy: 868, 475
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/War Demon
+  rotate: false
+  xy: 544, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/War Demon
   rotate: false
   xy: 544, 43
   size: 100, 100
