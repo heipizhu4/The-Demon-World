@@ -75,6 +75,7 @@
 		"name": "Healing Spell",
 		"uniques": ["Heal this unit by [35] HP","Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Demon","Ranged Wizard"]
+		"row":1
 	},
 	{
 		"name": "Driven I",
@@ -90,7 +91,7 @@
 	{
 		"name": "Consume Life",
 		"uniques": ["Heals [20] damage if it kills a unit"],
-		"prerequisites": ["Driven II"],
+		"prerequisites": ["Impaling","Shapeshift"],
 		"unitTypes": ["Demon","Ranged Wizard"]
 	},
 	{
@@ -137,12 +138,18 @@
 		"name": "Dark Arts",
 		"prerequisites": ["Magic Strike I"],
 		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
-		"unitTypes": ["Demon"]
+		"unitTypes": ["Ranged Wizard"]
 	},
 	{
 		"name": "Self-Healing",
-		"prerequisites": ["Driven II"],
+		"prerequisites": ["Shapeshift","Impaling"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Demon","Ranged Wizard"]
+	}
+	{
+		"name": "Blitz Attack",
+		"prerequisites": ["Driven II","Shapeshift","Impaling"],
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes": ["Demon"]
 	}
 ]
