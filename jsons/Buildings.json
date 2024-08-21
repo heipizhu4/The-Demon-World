@@ -33,7 +33,8 @@
 		"[+100]% Production when constructing [Lucifer's Castle] wonders [in this city] <during the [Atomic era]>"
 		"Doubles Gold given to enemy if city is captured",
 		"Unsellable",
-		"Destroyed when the city is captured"],
+		"Destroyed when the city is captured"
+		"Unbuildable"],
 		"quote": "'Did God ever cry over his lost angel, I wonder?' - Libba Bray"
 	},
 	{
@@ -46,7 +47,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-		"Can only be built [in annexed cities]",
+		"Can only be built <in [in annexed cities] cities>",
 		"[+10]% Production when constructing [Demon] units [in all cities]",
 		"[+10]% Production when constructing [Ranged Wizard] units [in all cities]",
 		"[+80]% Production when constructing [Demon World Portal] wonders [in all cities]",
