@@ -148,7 +148,7 @@
 	}
 	{
 		"name": "Blitz Attack",
-		"prerequisites": ["Driven II","Shapeshift","Impaling"],
+		"prerequisites": ["Driven II"],
 		"uniques": ["[1] additional attacks per turn"],
 		"unitTypes": ["Demon"]
 	}
