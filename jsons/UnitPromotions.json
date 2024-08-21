@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "Red Capote",
-		"uniques": ["May withdraw before melee ([80]%)","[+50]% XP gained from combat"]
+		"uniques": ["Withdraws before melee combat <with [80]% chance>","[+50]% XP gained from combat"]
 	},
 	{
 		"name": "Victory",
